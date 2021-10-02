@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 
 import '!style-loader!css-loader!sass-loader!../node_modules/bootstrap/dist/css/bootstrap.css';
-// import '!style-loader!css-loader!sass-loader!@platform8/web-ui/src/styles/styles.scss';
+// import '!style-loader!css-loader!sass-loader!@cloud-platform/vue2-components-plugin/src/styles/styles.scss';
 
 Vue.use(Vuex)
 
