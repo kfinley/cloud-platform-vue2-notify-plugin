@@ -2,6 +2,9 @@
 node_modules
 /dist
 
+# lerna files
+lerna-debug.log
+package.json.lerna_backup
 
 # local env files
 .env.local
